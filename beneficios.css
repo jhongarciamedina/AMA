@@ -1,0 +1,52 @@
+body{
+	font-family:algerian;
+}
+header{
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size: 20px;
+  padding: 10px 10px;
+  background-color:#118C90;
+  text-transform: uppercase;
+  text-shadow: -2px -2px 2px black, 2px -2px 2px black, -2px 2px 2px black, 2px 2px 2px black;
+	
+	
+}
+#contenedor{
+	background-color:#BEB5B3;
+}
+#titulo{
+	text-align:center;
+	color:#105356;
+	font-size:30px;
+	
+	-webkit-text-stroke: 2px #105356;
+}
+#izqui{
+	float:left;
+	width:50%;
+	padding-top:40px;
+	padding-bottom:40px;
+	
+}
+#der{
+	margin-left:50%;
+	padding-top:40px;
+	background-color:#BEB5B3;
+	padding-bottom:40px;
+}
+#izqui1{
+	float:left;
+	width:50%;
+	
+}
+#der1{
+	margin-left:50%;
+}
+#izquierda{
+	float:left;
+	width:50%;
+}
+#derecha{
+	margin-left:50%;
+	
+}
