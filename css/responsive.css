@@ -83,6 +83,10 @@ width : 100%;
 .sngl_pricing {
 margin-bottom : 40px;
 }
+header .navbar-default .navbar-toggle {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
 .service {
 margin-bottom : 20px;
 }

@@ -1,0 +1,36 @@
+#datos-mascota
+{
+	padding-top : 150px;
+}
+#imagen
+{
+	text-align: center;
+}
+#derecha
+{
+    float: left;
+    padding: 0px 30px;
+    box-sizing: border-box;
+    position: relative;
+     font-size: 16px;
+     font-family : lato;
+    line-height: 25px;
+     display: table-cell;
+    vertical-align: middle;
+
+}
+td
+{
+	font-weight: bold;
+    color: #242b3d;
+}
+th
+{
+text-align: left;
+    color: #3f548e;
+    padding-right: 50px;
+}
+#logo
+{
+	padding-bottom: : 0px;
+}

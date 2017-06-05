@@ -1,7 +1,5 @@
 @CHARSET "UTF-8";
-/*
-over-ride "Weak" message, show font in dark grey
-*/
+
 
 .progress-bar {
     color: #333;
