@@ -5,14 +5,14 @@ header{
 	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
   font-size: 20px;
   padding: 10px 10px;
-  background-color:#118C90;
+  background-color: gray;
   text-transform: uppercase;
   text-shadow: -2px -2px 2px black, 2px -2px 2px black, -2px 2px 2px black, 2px 2px 2px black;
 	
 	
 }
 #contenedor{
-	background-color:#BEB5B3;
+	background-color:white;
 }
 #titulo{
 	text-align:center;
@@ -31,7 +31,7 @@ header{
 #der{
 	margin-left:50%;
 	padding-top:40px;
-	background-color:#BEB5B3;
+	background-color:white;
 	padding-bottom:40px;
 }
 #izqui1{
