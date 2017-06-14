@@ -7,14 +7,11 @@ header{
   padding: 10px 10px;
   background-color:#9D9C9E;
   text-transform: uppercase;
-  text-shadow: -2px -2px 2px black, 2px -2px 2px black, -2px 2px 2px black, 2px 2px 2px black;
-  
-  
-	
-	
+  text-shadow: -2px -2px 2px black, 2px -2px 2px black, -2px 2px 2px black, 2px 2px 2px black;	
 }
 #contenedor{
 	background-color:#FEFDFF;
+	margin-top:10%;
 	
 }
 #titulo{
