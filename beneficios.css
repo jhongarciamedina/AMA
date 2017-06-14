@@ -5,20 +5,20 @@ header{
 	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
   font-size: 20px;
   padding: 10px 10px;
-  background-color: gray;
+  background-color:#9D9C9E;
   text-transform: uppercase;
-  text-shadow: -2px -2px 2px black, 2px -2px 2px black, -2px 2px 2px black, 2px 2px 2px black;
-	
-	
+  text-shadow: -2px -2px 2px black, 2px -2px 2px black, -2px 2px 2px black, 2px 2px 2px black;	
 }
 #contenedor{
-	background-color:white;
+	background-color:#FEFDFF;
+	margin-top:10%;
+	
 }
 #titulo{
 	text-align:center;
 	color:#105356;
 	font-size:30px;
-	
+	background-color:#BDBBBF;
 	-webkit-text-stroke: 2px #105356;
 }
 #izqui{
@@ -26,17 +26,21 @@ header{
 	width:50%;
 	padding-top:40px;
 	padding-bottom:40px;
+	padding-right:5px;
 	
 }
 #der{
 	margin-left:50%;
 	padding-top:40px;
-	background-color:white;
+	
 	padding-bottom:40px;
+	padding-left:10px;
 }
 #izqui1{
 	float:left;
 	width:50%;
+	padding-left:10px;
+	padding-right:5px;
 	
 }
 #der1{
@@ -50,3 +54,24 @@ header{
 	margin-left:50%;
 	
 }
+
+#cuerpo{
+	background-color:#BDBBBF;
+}
+ th{
+ 
+  border: 1px solid black;
+}
+td{
+	text-align:center;
+	border: 1px solid black;
+}
+#genral{
+	float:left;
+	width:30;
+}
+table{
+  width:100%;
+  border: 1px solid black;
+  background-color:#BDBBBF;
+  
