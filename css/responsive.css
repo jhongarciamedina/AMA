@@ -5,6 +5,10 @@ left : 30px;
 .right_crousel_btn {
 right : 30px;
 }
+#acerca
+{
+	padding-top: 100px;
+}
 }
 @media (min-width:992px) and (max-width:1169px) {
 .container {
@@ -33,6 +37,10 @@ left : 30px;
 }
 .right_crousel_btn {
 right : 30px;
+}
+#acerca
+{
+	padding-top: 100px;
 }
 }
 @media (min-width:768px) and (max-width:991px) {
@@ -68,6 +76,10 @@ right : 30px;
 }
 .widget {
 float : left;
+}
+#acerca
+{
+	padding-top: 100px;
 }
 }
 @media (max-width:767px) {
@@ -114,6 +126,10 @@ left : 0;
 .author_info > img {
 width : 100%;
 margin-bottom : 20px;
+}
+#acerca
+{
+	padding-top: 100px;
 }
 }
 @media only screen and (min-width:320px) and (max-width:479px) 

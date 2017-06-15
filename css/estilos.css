@@ -34,14 +34,13 @@ margin : 0;
 padding : 0;
 position : relative;
 }
-#nav_menu ul a {
+#navbar ul a {
 color : #ffffff;
 display : block;
 font-family : lato;
 font-size : 14px;
 font-weight : bold;
 line-height : 32px;
-padding : 25px 14px;
 text-decoration : none;
 text-transform : capitalize;
 transition : all 0.4s 0s ease;
@@ -51,7 +50,7 @@ float : left;
 padding : 0;
 position : relative;
 }
-#nav_menu ul li a:hover {
+#navbar ul li a:hover {
 transition : all 0.4s 0s ease;
 background : #0078BF;
 }
@@ -73,7 +72,7 @@ width : 200px;
 line-height : 120%;
 padding : 10px 29px;
 }
-#nav_menu ul ul li a:hover {
+#navbar ul ul li a:hover {
 transition : all 0.4s 0s ease;
 background : #333333;
 }
@@ -100,8 +99,8 @@ padding : 90px 0;
 .lft_hd img {
 float : left;
 margin-right : 30px;
-margin-top : 19px;
-width : 76px;
+margin-top : 5px;
+width : 100px;
 }
 
 .title_sec {
@@ -419,4 +418,3 @@ p
 	padding-left: 10px;
 	padding-bottom: 20px;
 }
-
