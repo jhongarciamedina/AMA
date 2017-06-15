@@ -1,10 +1,11 @@
 #datos-mascota
 {
-	padding-top : 150px;
+	padding-top : 100px;
 }
 #imagen
 {
-	text-align: center;
+  text-align: center;
+  padding-top: 30px;
 }
 #derecha
 {
