@@ -27,13 +27,7 @@ transition : background 0.5s ease-in-out, padding 0.5s ease-in-out;
 .top-nav-collapse {
 padding : 0;
 }
-#nav_menu ul {
-float : right;
-list-style : none outside none;
-margin : 0;
-padding : 0;
-position : relative;
-}
+
 #navbar ul a {
 color : #ffffff;
 display : block;
@@ -45,47 +39,19 @@ text-decoration : none;
 text-transform : capitalize;
 transition : all 0.4s 0s ease;
 }
-#nav_menu ul li {
-float : left;
-padding : 0;
-position : relative;
-}
+
 #navbar ul li a:hover {
 transition : all 0.4s 0s ease;
 background : #0078BF;
 }
-#nav_menu ul ul {
-background : none 0 0 repeat scroll #0078bf;
-display : none;
-left : 0;
-padding : 0;
-position : absolute;
-top : 100%;
-z-index : 9999;
-padding : 10px;
-}
-#nav_menu ul ul li {
-float : none;
-width : 200px;
-}
-#nav_menu ul ul a {
-line-height : 120%;
-padding : 10px 29px;
-}
+
+
 #navbar ul ul li a:hover {
 transition : all 0.4s 0s ease;
 background : #333333;
 }
-#nav_menu ul ul ul {
-top : 0;
-left : 100%;
-}
-#nav_menu ul li:hover > ul {
-display : block;
-}
-#nav_menu ul li a i {
-margin-left : 6px;
-}
+
+
 #src_sec {
 background-image : url("../img/slide_img.jpg");
 background-position : center center;
