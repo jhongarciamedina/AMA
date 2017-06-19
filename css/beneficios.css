@@ -18,7 +18,6 @@ header{
 	text-align:center;
 	color:#105356;
 	font-size:30px;
-	background-color:#BDBBBF;
 	-webkit-text-stroke: 2px #105356;
 }
 #izqui{
@@ -55,9 +54,6 @@ header{
 	
 }
 
-#cuerpo{
-	background-color:#BDBBBF;
-}
  th{
  
   border: 1px solid black;
@@ -72,6 +68,5 @@ td{
 }
 table{
   width:100%;
-  border: 1px solid black;
-  background-color:#BDBBBF;
+}
   
