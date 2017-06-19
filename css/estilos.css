@@ -51,6 +51,15 @@ transition : all 0.4s 0s ease;
 background : #333333;
 }
 
+.dropdown-menu 
+{
+  background :#333333;
+}
+.dropdown-menu  li a:hover
+{
+  background : #0078BF;
+}
+
 
 #src_sec {
 background-image : url("../img/slide_img.jpg");
