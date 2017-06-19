@@ -53,20 +53,47 @@ header{
 	margin-left:50%;
 	
 }
-
- th{
- 
-  border: 1px solid black;
+#cuerpo #general h1
+{
+	text-align:center;
+    text-align:center;
+	color:#105356;
+	font-size:30px;
+	-webkit-text-stroke: 2px #105356;
 }
 td{
+	
+}
+tr th
+{
 	text-align:center;
-	border: 1px solid black;
+	font-family: Helvetica, Arial, sans-serif;
+	color: white;
+}
+tr td p
+{
+	
+	margin-left: 25%;
+	text-align:center-left;
+	font-family: Arial, sans-serif;
 }
 #genral{
 	float:left;
 	width:30;
 }
-table{
-  width:100%;
+table th
+{
+ background-color: #272728;
+ 
 }
+table th td
+{
+	border: 1px solid black;
+}
+table{
+  text-align: center;
+  width:100%;
+
+}
+
   
