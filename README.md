@@ -4,16 +4,33 @@ AMA  es una asociación sin fines de lucro dedicada a la promoción de la adopci
 
 ## Público objetivo
 
-Familias en busca de una mascota.
+### Demográfico
+
+Personas mayores de 18 años hasta los 50 años.
+
+### Conductual
+
+Etapa de preparación(interesados y deseosos con intención de adoptar)
+Actitud hacia el producto(entusiasta y positiva)
+
+
+### Geográfico
+
+Distritos de Lima
+
+### Psicográfico
+
+Personas que tengan un trabajo estable(nivel ecónomico A-B).
+Estilo de vida(exitosos y luchadores)
 
 ## Estrategia de rentabilización del producto
 
-Sponsors y publicidad.
+Sponsors y publicidad: mediante marcas de comidas de mascotas.
 
 ## Visión del proyecto
 
-* Disminuir la cantidad de mascotas abandonadas en el Perú.
 * Encontrar un hogar dispuestos a adoptar a los mascotas.
+* Disminuir la sobrepoblación de animales abandonados para evitar problemas de salud debido a zoonosis.
 
 ## Integrantes
 
