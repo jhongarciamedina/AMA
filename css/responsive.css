@@ -5,14 +5,11 @@ left : 30px;
 .right_crousel_btn {
 right : 30px;
 }
-#acerca
-{
-	padding-top: 100px;
-}
+
 }
 @media (min-width:992px) and (max-width:1169px) {
 .container {
-width : 970px;
+width : 1169px;
 }
 .lts_pst img {
 width : 100%;
@@ -38,14 +35,14 @@ left : 30px;
 .right_crousel_btn {
 right : 30px;
 }
-#acerca
+#contenedor #titulo
 {
-	padding-top: 100px;
+	padding-top:50px;
 }
 }
 @media (min-width:768px) and (max-width:991px) {
 .container {
-width : 750px;
+width : 100%;
 }
 .lts_pst img {
 width : 100%;
@@ -77,10 +74,15 @@ right : 30px;
 .widget {
 float : left;
 }
-#acerca
+
+#contenedor #titulo
 {
-	padding-top: 100px;
+	padding-top:50px;
 }
+header .navbar-default .navbar-toggle {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
 }
 @media (max-width:767px) {
 .container {
@@ -127,9 +129,9 @@ left : 0;
 width : 100%;
 margin-bottom : 20px;
 }
-#acerca
+#contenedor #titulo
 {
-	padding-top: 100px;
+	padding-top:50px;
 }
 }
 @media only screen and (min-width:320px) and (max-width:479px) 
