@@ -21,6 +21,20 @@ ul,label{
 	margin:0;
 	padding:0;
 }
+.col-center{
+    float: none;
+    margin: 0 auto;
+}
+table
+{
+  border-collapse: separate;
+ border-spacing:100px;
+
+}
+td
+{
+   background: white;
+}
 .main_menu_sec {
 background : none 0 0 repeat scroll #353638;
 border : none 0;
@@ -168,6 +182,9 @@ padding : 90px 0;
 
 .googleplus {
   	background: #dd4b39;
+}
+.center-block{
+  float: none;
 }
 
 .login-container input[type="submit"] {
